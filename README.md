@@ -21,6 +21,6 @@ jq - http://stedolan.github.io/jq/
 
 == Authors ==
 
-Tiago Murakami
+Tiago Rodrigo Marçal Murakami
 
 Jan Leduc de Lara
